@@ -1,5 +1,6 @@
 {
     "name": "Caterpillarforms",
+    "version": "0.0.1",
     "description": "CaterpillarForms is a plugin to extend CatForms capabilities making the model class dynamic",
     "author_name": "Luca Gobbi",
     "author_url": "https://github.com/lucagobbi",
